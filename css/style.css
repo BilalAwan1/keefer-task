@@ -1,0 +1,705 @@
+.main, .main-top,
+.container-2,
+.que-in-img,
+.form-in-img,
+.privacy-main,
+.container-3,
+.section-3-1,
+.being-charged-main,
+.mainn,
+.general-members,
+.container-4,
+.main,
+.DUI-DWI,
+.FOLLOW-US,
+.icons,
+.learn-more-about, .mainn-sec-3 {
+    display: flex;
+}
+
+*{
+    font-family: system-ui;
+}
+
+body {
+    border-right: 30px solid #868686;
+    border-left: 30px solid #868686;
+    margin: 0px;
+    /* border-bottom: 10px solid #8D0D0B; */
+}
+
+.keefer-Law-Firm {
+    width: 685px;
+}
+
+.offices {
+    width: 45%;
+}
+
+
+.Call-Office {
+    font-size: 24px;
+    margin-top: 9px;
+    color: #8D0D0B;
+    font-weight: 800;
+    font-family: sans-serif;
+    letter-spacing: 2px;
+    margin: 0px;
+    border-bottom: 5px solid grey;
+    float: right;
+}
+
+/* .horizontal-line{
+    width: 368px;
+    border-bottom: 3px solid grey;
+    float: right;
+    margin: 0px;
+} */
+.Top-number {
+    float: right;
+    margin: 0px;
+    font-size: 50px;
+    font-weight: 800;
+    font-family: sans-serif;
+    letter-spacing: 0.4px;
+}
+
+.QNA {
+    float: right;
+    font-size: 23px;
+    font-family: sans-serif;
+    color: #525250;
+    margin: 0px;
+    letter-spacing: 0.4px;
+}
+
+.nav-main a.active {
+    color: white;
+    background-color: #666865;
+}
+
+.nav-main a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.NEP{
+    margin-left: 47px;
+}
+
+.nav-main a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 10px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    font-size: 25px;
+    font-weight: 400;
+    font-family: system-ui;
+}
+
+.nav-main {
+    overflow: hidden;
+    background-color: #6C0203;
+}
+
+.ancors {
+    float: right;
+    text-transform: capitalize;
+    display: flex;
+}
+
+nav {
+    gap: 10px;
+
+}
+
+.container-2 {
+    margin: 30px;
+    height: 414px;
+    margin-bottom: 0px;
+}
+
+.image-01 {
+    width: 657px;
+}
+
+.image-2 {
+    background-image: url(/assets/form_bg.jpg);
+    width: 556px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.image-1 {
+    margin-right: 30px;
+}
+
+.que {
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+    background-color: #8D0B0D;
+    margin: 0px;
+}
+
+.have-a-que {
+    margin-left: 30px;
+}
+
+.para-in-img {
+    font-size: 29px;
+    margin: 0px;
+    margin-top: 10px;
+    font-weight: 700;
+    color: #131313;
+    margin-left: 47px;
+}
+
+.question-1 {
+    font-size: 37px;
+    margin-left: 10px;
+    color: #0A3562;
+    font-weight: 900;
+    font-family: sans-serif;
+    margin: 0px;
+    margin-left: 10px;
+}
+
+.about-your-case {
+    text-align: center;
+}
+
+.about-your-case-1 {
+    margin: 0px;
+    font-size: 29px;
+    font-weight: 700;
+    color: #131313;
+    margin-left: 183px;
+}
+
+.enter-your-info {
+    font-size: 20px;
+    margin: 23px;
+}
+
+.form-in-img {
+    text-transform: uppercase;
+}
+
+.input-in-img {
+    margin-left: 3px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 19px;
+}
+
+.input-in-image {
+    width: 200px;
+    height: 19px;
+}
+
+.input-in-image-1 {
+    margin-left: 5px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 19px;
+}
+
+.confidential-image {
+    transform: rotate(11deg);
+    margin-top: 25px;
+    margin-left: 17px;
+    width: 200px;
+}
+
+.txt-area-in-img {
+    margin: 30px;
+    resize: none;
+    width: 487px;
+    height: 65px;
+    margin-bottom: 0px;
+}
+
+.privacy-main {
+    margin: 30px;
+    margin-bottom: 0px;
+    margin-top: 11px;
+}
+
+.privacy-btn {
+    width: 50%;
+}
+
+.privacy {
+    width: 50%;
+}
+
+.btn-in-img {
+    /* float: right; */
+    width: 247px;
+    background-color: #8D0B0D;
+    color: white;
+    font-size: 22px;
+}
+
+.guarenteed-in-img {
+    color: #898780;
+    margin: 0px;
+    font-size: 19px;
+    font-family: sans-serif;
+    font-style: italic;
+    margin-top: 6px;
+}
+
+.shadow-of-images {
+    width: 658px;
+    margin-top: -4px;
+}
+
+.shadow-of-images-1 {
+    width: 572px;
+}
+
+.section-3-01 {
+    width: 30%;
+    height: 320px;
+}
+
+.section-3-2 {
+    width: 40%;
+    height: 320px;
+}
+
+.section-3-3 {
+    width: 30%;
+    height: 320px;
+}
+
+.container-3 {
+    margin-left: 35px;
+    margin-right: 35px;
+    margin-top: 70px;
+    border-bottom: 0px;
+}
+
+.CHARGED-WITH {
+    font-size: 25px;
+    margin: 0px;
+    color: #454545;
+    font-weight: bold;
+    width: 205px;
+}
+
+.DUI {
+    margin: 0px;
+    margin-left: 10px;
+    font-size: 25px;
+    font-weight: bold;
+    color: #8D0B0D;
+}
+
+.evaluation {
+    font-size: 18px;
+    margin: 0px;
+    color: #8D0B0D;
+    margin-top: 6px;
+    font-weight: 800;
+    font-family: sans-serif;
+}
+
+.being-charged-para {
+    margin-top: 14px;
+    font-size: 16px;
+    font-family: sans-serif;
+    letter-spacing: 1px;
+    color: #7D7D7D;
+    font-weight: 600;
+}
+
+.clipboard-in-sec-3 {
+    width: 85px;
+    margin-left: 43px;
+}
+
+.being-charged {
+    margin-top: 5px;
+}
+
+.btn-2 {
+    float: right;
+    padding: 6px;
+    width: 135px;
+    background-color: #8D0D0B;
+    color: white;
+    margin-right: 73px;
+}
+
+.hr-in-btn {
+    width: 222px;
+    float: right;
+    margin: 0px;
+    margin-right: 42px;
+    margin-bottom: -1px;
+    border-top: 1px solid #686868;
+}
+
+.bullet-white {
+    margin-left: 10px;
+}
+
+.vertical-hr {
+    border-top: 1px solid #686868;
+    height: 250px;
+}
+
+.LAW {
+    margin: 0px;
+    margin-left: 40px;
+    margin-top: 12px;
+    font-size: 22px;
+    margin-right: 5px;
+    font-weight: 700;
+    color: #686868;
+}
+
+.BLOG {
+    margin: 0px;
+    margin-top: 12px;
+    font-size: 22px;
+    font-weight: 700;
+    color: #8D0B0D;
+}
+
+.virginia {
+    margin: 0px;
+    margin-left: 40px;
+    font-size: 17px;
+    letter-spacing: 1px;
+    color: #7D7D7D;
+    font-weight: 500;
+}
+
+.btn-3 {
+    width: 135px;
+    padding: 6px;
+    background-color: #8D0B0D;
+    float: right;
+    margin-top: -1px;
+    color: white;
+    margin-right: 24px;
+}
+
+.hr-in-btn-3 {
+    margin: 0px;
+    float: right;
+    width: 200px;
+}
+
+.mainn-1 {
+    width: 256px;
+}
+
+.pic-1 {
+    width: 185px;
+    margin-top: 9px;
+}
+
+.arivo-rating {
+    width: 124px;
+    margin-top: 20px;
+    margin-left: 38px;
+}
+
+.National-College {
+    margin-top: 10px;
+    margin-left: 50px;
+    width: 115px;
+}
+
+.certificates {
+    margin: 0px;
+    font-size: 25px;
+    margin-left: 25px;
+    color: #A5A5A5;
+    font-weight: 700;
+}
+
+.CREDENTIALS {
+    margin: 0px;
+    margin-left: 25px;
+    font-size: 25px;
+    color: #8D0B0D;
+    font-weight: 700;
+}
+
+.protected-1 {
+    margin: 0px;
+    margin-left: 25px;
+    letter-spacing: 1px;
+    color: #7D7D7D;
+    font-weight: 500;
+}
+
+.LM {
+    float: right;
+    margin-right: 77px;
+    padding: 6px;
+    width: 135px;
+    color: white;
+    background-color: #8D0B0D;
+}
+
+.hr-shadow {
+    width: 100%;
+}
+
+
+.PRACTICE {
+    margin: 0px;
+    margin-top: 16px;
+    margin-left: 63px;
+    margin-right: 12px;
+    font-size: 25px;
+    color: #4B4B4B;
+    font-weight: 700;
+    font-family: serif;
+}
+
+.AREAS {
+    margin: 0px;
+    margin-top: 15px;
+    font-size: 25px;
+    font-weight: 700;
+    color: #8D0b0D;
+    font-family: serif;
+}
+
+.DUI-1 {
+    background-color: #686868;
+    width: 300px;
+    height: 75px;
+}
+
+.border-left {
+    margin-left: 68px;
+    width: 12px;
+    height: 75px;
+}
+
+.DUI-DWI {
+    margin-top: 16px;
+}
+
+.dui-dwi {
+    margin: 0px;
+    color: white;
+    margin-top: 10px;
+    margin-left: 10px;
+    font-size: 24px;
+    letter-spacing: 1px;
+    font-weight: 600;
+}
+
+.LEARN-MORE {
+    float: right;
+    margin-right: 10px;
+}
+
+.page-title {
+    font-size: 25px;
+    margin-left: 50px;
+    font-weight: 900;
+    color: #6E6E6E;
+    margin-bottom: 0px;
+}
+
+.PRACTICE-AREAS {
+    width: 30%;
+}
+
+.PAGE-TITLE-HERE {
+    width: 50%;
+}
+
+.CLIENTS-TESTIMALS {
+    width: 20%;
+}
+
+.para-of-pageTITLE {
+    margin-left: 33px;
+    color: #686868;
+    font-weight: 500;
+    font-family: system-ui;
+    font-size: 15px;
+    line-height: 26px;
+}
+
+.CLIENT {
+    margin: 0px;
+    font-size: 25px;
+    margin-top: 20px;
+    font-weight: 700;
+    font-family: serif;
+    color: #686868;
+}
+
+.TESTIMONIALS {
+    margin: 0px;
+    color: #8D0B0D;
+    font-weight: 700;
+    font-family: serif;
+    font-size: 25px;
+}
+
+.what-others-say {
+    color: #686868;
+    font-family: sans-serif;
+    margin: 0px;
+    font-size: 18px;
+    font-weight: 600;
+    margin-top: 4px;
+}
+
+.btn-in-sec-4 {
+    padding: 5px;
+    width: 146px;
+    margin-top: -1px;
+    float: right;
+    background-color: #8D0B0D;
+    color: white;
+    margin-right: 62px;
+}
+
+.hr-last {
+    margin: 0px;
+    width: 223px;
+    margin-top: 10px;
+}
+
+.REPORTS {
+    margin: 0px;
+    font-size: 25px;
+    font-weight: 700;
+    font-family: serif;
+    color: #686868;
+    margin-left: 8px;
+}
+
+.OFFICES {
+    margin: 0px;
+    font-size: 25px;
+    font-weight: 700;
+    font-family: serif;
+    color: #686868;
+}
+
+.CONTACTS {
+    margin: 0px;
+    color: #686868;
+    font-weight: 700;
+    font-family: serif;
+    font-size: 25px;
+}
+
+.OUR {
+    margin: 0px;
+    font-size: 25px;
+    font-weight: 700;
+    font-family: serif;
+    color: #8D0B0D;
+    margin-left: 8px;
+}
+
+.qqq-gif {
+    width: 160px;
+    margin: 30px;
+}
+
+.qqq-gif-1 {
+    margin-left: 50px;
+    width: 130px;
+}
+
+.FOLLOW-US {
+    margin-top: 20px;
+    margin-left: 51px;
+    font-size: 22px;
+    margin-bottom: -6px;
+}
+
+.FOLLOW {
+    color: #686868;
+    font-weight: 600;
+    margin-right: 7px;
+    margin-bottom: 0px;
+    margin-top: 18px;
+}
+
+.US {
+    font-weight: 600;
+    color: #8D0B0D;
+    font-family: sans-serif;
+    margin-bottom: 0px;
+}
+
+.img-hr {
+    margin-left: 15px;
+}
+
+.fb {
+    margin-left: 40px;
+    margin-right: 12px;
+}
+
+.google {
+    margin-right: 12px;
+}
+
+.twitter {
+    margin-right: 12px;
+}
+
+.in {
+    margin-right: 12px;
+}
+
+.learn-more-about {
+    margin: 0px;
+    margin-top: 30px;
+    margin-left: 40px;
+}
+
+.learn {
+    margin-right: 5px;
+    font-size: 22px;
+    font-weight: 600;
+    color: #686868;
+    font-family: serif;
+}
+
+.more {
+    margin: 0px;
+    font-size: 22px;
+    color: #8D0B0D;
+    font-weight: 600;
+    font-family: serif;
+}
+
+.about {
+    font-size: 22px;
+    margin-left: 7px;
+    font-weight: 600;
+    color: #686868;
+    font-family: serif;
+}
+
+.main-area-here {
+    margin: 141px;
+    margin-top: 40px;
+    font-size: 26px;
+    color: #686868;
+    font-weight: 700;
+    opacity: 0.3;
+}
