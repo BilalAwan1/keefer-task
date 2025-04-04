@@ -123,6 +123,7 @@ nav {
 
 .image-01 {
     width: 657px;
+    height: 388px;
 }
 
 .image-2 {
@@ -130,6 +131,7 @@ nav {
     width: 556px;
     background-repeat: no-repeat;
     background-size: cover;
+    height: 99%;
 }
 
 .image-1 {
@@ -181,7 +183,7 @@ nav {
 
 .enter-your-info {
     font-size: 20px;
-    margin: 23px;
+    margin: 3px;
 }
 
 .form-in-img {
@@ -225,7 +227,7 @@ nav {
 .privacy-main {
     margin: 30px;
     margin-bottom: 0px;
-    margin-top: 11px;
+    margin-top: 0px;
 }
 
 .privacy-btn {
@@ -280,7 +282,7 @@ nav {
 .container-3 {
     margin-left: 35px;
     margin-right: 35px;
-    margin-top: 70px;
+    margin-top: 46px;
     border-bottom: 0px;
 }
 
@@ -510,7 +512,7 @@ nav {
 .page-title {
     font-size: 25px;
     margin-left: 50px;
-    font-weight: 900;
+    font-weight: 600;
     color: #6E6E6E;
     margin-bottom: 0px;
 }
@@ -530,7 +532,7 @@ nav {
 .para-of-pageTITLE {
     margin-left: 33px;
     color: #686868;
-    font-weight: 500;
+    font-weight: 400;
     font-family: system-ui;
     font-size: 15px;
     line-height: 26px;
